@@ -323,6 +323,8 @@ body {
   color: var(--brand-color);
 }
 .lead-card {
+  padding-bottom: 30px;
+
   font-size: 16px;
   line-height: 1.18;
   text-align: center;
