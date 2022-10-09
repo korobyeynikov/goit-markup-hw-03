@@ -50,6 +50,11 @@ body {
   padding-right: 15px;
   margin: 0 auto;
 }
+
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 /* хедер */
 .header {
   border: 1px solid var(--border-col);
@@ -219,10 +224,7 @@ body {
 }
 
 /* особливості */
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
+
 .title-section {
   position: absolute;
   white-space: nowrap;
@@ -263,7 +265,7 @@ body {
 }
 /* чим займаємось */
 .box {
-  padding-bottom: 94px;
+  padding-top: 0;
 }
 .section-box {
   margin-bottom: 50px;
@@ -283,9 +285,6 @@ body {
 }
 /* наша команда */
 .subject {
-  padding-top: 94px;
-  padding-bottom: 94px;
-
   background: var(--bgn-section);
 }
 
@@ -371,10 +370,6 @@ body {
 }
 
 /* портфоліо */
-.radio {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
 
 .heading-title {
   padding: 20px 24px;
