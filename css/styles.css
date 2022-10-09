@@ -182,7 +182,7 @@ body {
 }
 /* радио кнопки */
 .radio-button {
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 
   display: flex;
   justify-content: center;
@@ -243,7 +243,7 @@ body {
 }
 
 .subtitle {
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 
   font-weight: 700;
   font-size: 14px;
@@ -344,7 +344,7 @@ body {
   background: var(--bgn-hero);
 }
 .contacts-item {
-  padding-bottom: 9px;
+  margin-bottom: 9px;
 }
 .contacts-address,
 .contacts-mail,
@@ -393,7 +393,7 @@ body {
 }
 
 .title-heading {
-  padding-bottom: 4px;
+  margin-bottom: 4px;
 
   font-weight: 700;
   font-size: 18px;
