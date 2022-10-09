@@ -9,6 +9,7 @@
   --secondary-color: #ffffff;
   --logo-color: #000000;
   --contacts-color: rgba(255, 255, 255, 0.6);
+  --border-col: #ececec;
 }
 p,
 h1,
@@ -50,6 +51,10 @@ body {
   margin: 0 auto;
 }
 /* хедер */
+.header {
+  border: 1px solid var(--border-col);
+}
+
 .header-navigation,
 .head {
   display: flex;
@@ -283,9 +288,7 @@ body {
 
   background: var(--bgn-section);
 }
-.team-card {
-  background: var(--secondary-color);
-}
+
 .section-subject {
   margin-bottom: 50px;
 
