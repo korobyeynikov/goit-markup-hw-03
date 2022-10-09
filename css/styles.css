@@ -312,8 +312,9 @@ body {
   background: var(--secondary-color);
 }
 
-.card-img {
-  margin-bottom: 30px;
+.wrapper-card {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .subtitle-card {
   margin-bottom: 10px;
@@ -327,8 +328,6 @@ body {
   color: var(--brand-color);
 }
 .lead-card {
-  padding-bottom: 30px;
-
   font-size: 16px;
   line-height: 1.18;
   text-align: center;
